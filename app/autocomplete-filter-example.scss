@@ -7,6 +7,6 @@
 .example-full-width {
   width: 100%;
 }
-:host /deep/ .mat-autocomplete-panel {
+::ng-deep .mat-autocomplete-panel {
   max-height: 450px !important;
 }
