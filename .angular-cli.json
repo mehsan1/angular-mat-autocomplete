@@ -1,0 +1,8 @@
+{
+  "apps": [{
+    "styles": [
+      "styles.css",
+       "app/autocomplete-filter-example.scss"
+      ]
+  }]
+}
